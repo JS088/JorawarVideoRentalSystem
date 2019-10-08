@@ -8,11 +8,11 @@ using System.Data;
 
 namespace JorawarVideoRentalSystem
 {
-    class fetch
+    public class fetch
     {
         //global declaration of the variable 
         SqlConnection sqlConn;
-        String connection_String = "Data Source=DESKTOP-HKD1BEO\\SQLEXPRESS;Initial Catalog=JVideoDatabase;Integrated Security=True";
+String connection_String = "Data Source=LAPTOP-1O8T59IS\\sqlexpress;Initial Catalog=JVideoDatabase;Integrated Security=True";
         SqlCommand sqlCmd;
         SqlDataReader sqlDatareader;
         int RentID = 0;

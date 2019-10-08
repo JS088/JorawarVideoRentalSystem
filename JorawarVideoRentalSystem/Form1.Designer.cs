@@ -718,7 +718,6 @@
         private System.Windows.Forms.NumericUpDown JCopies;
         private System.Windows.Forms.NumericUpDown JCost;
         private System.Windows.Forms.NumericUpDown JYear;
-        private System.Windows.Forms.NumericUpDown JMobileNo;
         private System.Windows.Forms.TextBox JGenre;
         private System.Windows.Forms.TextBox JPlot;
         private System.Windows.Forms.TextBox JRatting;
@@ -764,6 +763,7 @@
         private System.Windows.Forms.Button JTopMovie;
         private System.Windows.Forms.Button JTopCustomer;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.NumericUpDown JMobileNo;
     }
 }
 
